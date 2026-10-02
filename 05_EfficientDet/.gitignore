@@ -1,0 +1,29 @@
+# EfficientDet original repository
+Yet-Another-EfficientDet-Pytorch/
+
+# Original / temporary notebooks
+EfficientDet practice.ipynb
+EfficientDetrealtest.ipynb
+EfficientDetrealtest(1).ipynb
+Untitled.ipynb
+.ipynb_checkpoints/
+
+# Dataset and videos
+archive/
+video_results/
+*.mp4
+
+# Model weights and training outputs
+*.pth
+*.pt
+logs/
+weights/
+
+# Temporary outputs
+__pycache__/
+*.pyc
+valid_bbox_results.json
+
+# OS
+Thumbs.db
+.DS_Store
