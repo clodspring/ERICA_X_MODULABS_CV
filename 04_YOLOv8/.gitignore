@@ -1,0 +1,10 @@
+runs/
+*.pth
+*.onnx
+*.engine
+stamp.v10i.yolov8/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+Thumbs.db
+.DS_Store
