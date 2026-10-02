@@ -1,5 +1,9 @@
 # YOLOv8 기반 제조 데이터 객체 탐지 실습
 
+## 실행 파일
+
+[YOLOv8 실습 Notebook 보기](./YOLOv8_stamp_submission.ipynb)
+
 ## 프로젝트 개요
 
 이번 프로젝트에서는 YOLOv8n을 이용해 shoes와 stamp 두 종류의 객체를 직접 학습하고 탐지 결과를 확인했습니다
