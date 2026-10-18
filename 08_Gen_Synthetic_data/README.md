@@ -5,6 +5,9 @@
 
 이번 프로젝트에서 가장 중요하게 본 점은 "생성되었다"와 "쓸 수 있는 데이터가 생성되었다"는 같지 않다는 것이다. 실제로 실행 과정에서는 dtype 오류, 메모리 부족, NaN 발생, 검은 이미지 출력 같은 문제를 겪었고, 이를 하나씩 수정하면서 최종적으로 기준 실험 이미지를 생성하고 결과를 분석했다.
 
+## 자료 링크
+https://github.com/clodspring/ERICA_X_MODULABS_CV/blob/main/08_Gen_Synthetic_data/AnomalyAny_Experiments.ipynb 
+
 ## 1. 프로젝트 목표
 
 - 생성형 AI를 이용해 정상 제품 이미지에 결함을 만드는 과정을 이해한다.
