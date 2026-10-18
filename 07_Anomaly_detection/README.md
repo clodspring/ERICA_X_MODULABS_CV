@@ -6,6 +6,9 @@
 
 PaDiM을 중심으로 One-Class SVM, AutoEncoder를 비교하였으며 임계값과 특징 차원 변화가 이상 탐지 결과에 미치는 영향을 추가로 살펴보았다.
 
+##파일 링크
+https://github.com/clodspring/ERICA_X_MODULABS_CV/blob/main/07_Anomaly_detection/VisA_PaDiM_PCB4_Submission.ipynb
+
 ## 사용 데이터
 
 VisA PCB4
