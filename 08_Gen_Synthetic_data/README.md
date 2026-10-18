@@ -169,3 +169,9 @@ AnomalyAny는 사전학습된 확산 모델을 이용해 정상 이미지에 텍
     ├── manual_review.csv
     ├── comparison_all.png
     └── graph_*.png
+
+12. 참고자료
+- 수업 자료: 생성형 AI를 활용한 제조 결함 데이터 생성 실습
+- AnomalyAny 공식 코드: https://github.com/EPFL-IMOS/AnomalyAny
+- 논문: Anomaly Anything: Promptable Unseen Visual Anomaly Generation
+- MVTec AD 데이터셋 소개: https://www.mvtec.com/research-teaching/datasets/mvtec-ad
